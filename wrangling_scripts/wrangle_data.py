@@ -103,8 +103,8 @@ def return_figures():
     )
 
     layout_three = dict(title='Total of people by rating.',
-                        xaxis=dict(title='Rating number'),
-                        yaxis=dict(title='Number of People'),
+                        xaxis=dict(title='Number of People'),
+                        yaxis=dict(title='Rating number'),
                         )
 
     # append all charts to the figures list
